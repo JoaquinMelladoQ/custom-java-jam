@@ -13,5 +13,15 @@ public class Main {
 
         boolean isAdult = true;
         char nameInitial = 'A';
+
+        System.out.println(theByte);
+        System.out.println(theShort);
+        System.out.println(theInt);
+        System.out.println(theLong);
+        System.out.println(pi);
+        System.out.println(doublePi);
+        System.out.println(isAdult);
+        System.out.println(nameInitial);
+
     }
 }
