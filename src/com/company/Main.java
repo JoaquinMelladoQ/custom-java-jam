@@ -7,5 +7,11 @@ public class Main {
         short theShort = 8989;
         int theInt = 787838334;
         long theLong = 78783833432L;
+
+        float pi = 3.14F;
+        double doublePi = 3.1415;
+
+        boolean isAdult = true;
+        char nameInitial = 'A';
     }
 }
