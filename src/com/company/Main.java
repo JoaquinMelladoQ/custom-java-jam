@@ -23,7 +23,7 @@ public class Main {
 //        System.out.println(isAdult);
 //        System.out.println(nameInitial);
 
-        String name = new String(original: "Amigoscode");
-
+        String name = new String("Amigoscode");
+        System.out.println(name);
     }
 }
