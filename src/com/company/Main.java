@@ -1,5 +1,6 @@
 package com.company;
 
+import java.time.LocalDate;
 import java.util.Locale;
 
 public class Main {
@@ -27,5 +28,7 @@ public class Main {
 
         String name = new String("Amigoscode");
         System.out.println(name.toUpperCase());
+        LocalDate now = LocalDate.now();
+        System.out.println(now);
     }
 }
