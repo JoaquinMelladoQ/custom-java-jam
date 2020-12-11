@@ -29,6 +29,6 @@ public class Main {
         String name = new String("Amigoscode");
         System.out.println(name.toUpperCase());
         LocalDate now = LocalDate.now();
-        System.out.println(now);
+        System.out.println(now.getDayOfWeek());
     }
 }
