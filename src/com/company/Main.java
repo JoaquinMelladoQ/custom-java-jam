@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Locale;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -24,6 +26,6 @@ public class Main {
 //        System.out.println(nameInitial);
 
         String name = new String("Amigoscode");
-        System.out.println(name);
+        System.out.println(name.toUpperCase());
     }
 }
